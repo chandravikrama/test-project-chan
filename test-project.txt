@@ -1,0 +1,4 @@
+TEST PROJECT CHAN
+- Berisikan source code mulai dari tutorial sampai project sedang (medium project).
+- Update selalu
+- Hanya untuk penyimpanan source code yang penting
